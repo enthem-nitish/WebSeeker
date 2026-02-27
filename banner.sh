@@ -1,0 +1,22 @@
+#!/bin/bash
+# WebSeeker Premium Banner
+
+echo -e "\e[1;35m"
+echo "****************************************************************"
+echo "*    __          __             _                              *"
+echo "*    \\ \\        / /__ _ __ ___ | |__   ___ _ __ ___ ___        *"
+echo "*     \\ \\ /\\ / / / _ \\ '__/ _ \\| '_ \\ / _ \\ '__/ __/ _ \\       *"
+echo "*      \\ V  V / /  __/ | | (_) | |_) |  __/ | | (_|  __/       *"
+echo "*       \\_/\\_/  \\___|_|  \\___/|_.__/ \\___|_|  \\___\\___|       *"
+echo "*                                                              *"
+echo "****************************************************************"
+echo -e "\e[1;36m"
+echo "                     Vulnerability Scanner v2.0"
+echo -e "\e[1;33m"
+echo "                 Developed by: Nitish Sharma"
+echo -e "\e[1;32m"
+echo "         Support: https://t.me/supportBlackEnthembot"
+echo "         Instagram: @nitishraj2645"
+echo -e "\e[1;35m"
+echo "################################################################"
+echo -e "\e[0m"
